@@ -56,7 +56,7 @@
     @import '../../style/mixin';
 
     #head_top{
-        background-color: $blue;
+        background-color: pink;
         position: fixed;
         z-index: 100;
         left: 0;
